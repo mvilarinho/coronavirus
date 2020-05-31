@@ -1,4 +1,5 @@
 # Graph of Coronavirus Pandemic
 
-Several Graph based in Coronavirus Data powered by Humanitarian Data Exchange
- https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
+Several graph based in coronavirus world data in real time powered by Humanitarian Data Exchange
+ https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases using Pandas
+ 
