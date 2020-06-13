@@ -1,0 +1,61 @@
+[ 
+    {"nome":"Europa Occidental",
+        "lista":[
+            "Northern Europe",
+            "Southern Europe",
+            "Western Europe",
+            "Center Europe"
+    ]
+    },
+    {"nome":"Europa do Este",
+        "lista":[
+            "Eastern Europe"
+    ]
+    },
+
+    {"nome":"Sudamérica",
+        "lista":[
+            "South America"
+    ]
+
+    },
+    {"nome":"Norte América",
+        "lista":[
+            "North America",
+            "Central America",
+            "Caribbean"
+    ]
+    },
+    {"nome":"Asia Oriental",
+        "lista":[
+            "Southern Asia",
+            "South-Eastern Asia",
+            "Eastern Asia"
+    ]
+    },
+    {"nome":"Asia Occidental",
+        "lista":[
+            "Central Asia",
+            "Western Asia"
+    ]
+    },
+    {"nome":"África",
+        "lista":[
+            "Middle Africa",
+            "Eastern Africa",
+            "Western Africa",
+            "Southern Africa",
+            "Northern Africa"
+    ]
+    },
+    {"nome":"Oceanía",
+        "lista":[
+            "Polynesia",
+            "Australia and New Zealand",
+            "Melanesia",
+            "Micronesia"
+    ]
+    }
+
+
+]
